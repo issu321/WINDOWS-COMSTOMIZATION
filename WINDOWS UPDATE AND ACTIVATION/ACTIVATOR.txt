@@ -1,0 +1,5 @@
+CMD1: slmgr /ipk  W269N-WFGWX-YVC9B-4J6C9-T83GX
+CMD2: slmgr /skms kms9.MSGuides.com
+CMD3: slmgr /ato
+Power mode set to ultimate perfomance 
+CMD: powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
